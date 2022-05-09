@@ -1,5 +1,7 @@
 # django_booking_app
-## A peer to peer booking app. End users can book events posted by guides. django, stripe, hubspot.
+## A peer to peer experience booking web app. End users can book experiences hosted by local tour guides. 
+
+Built using django, boostrap, stripe, hubspot.
 
 ![Alt text](./screenshots/home.png?raw=true "Title")
 
